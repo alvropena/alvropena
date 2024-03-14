@@ -1,4 +1,4 @@
-### hi, i'm Alvaro
+### Alvaro Peña
 
 i was born in and raised in lima, peru. in 2024, i transferred to csueb and moved to sf. i majored in economics.
 
