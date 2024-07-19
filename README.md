@@ -1,6 +1,5 @@
 ### Alvaro Peña
 
-- I'm a Full Stack Software Engineer.
 - I work at Axeom.
 - I was born and raised in Lima, Peru in May 2001.
 - In Jan 2024, I moved to San Francisco to complete my BSc Economics at Cal State, East Bay.
