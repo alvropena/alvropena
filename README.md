@@ -3,8 +3,8 @@
 ## About
 - **Born:** 26th May 2001
 - **Nationality:** Peruvian
-- **Education:** BSc. Economics @ California State University, East Bay
-- **Role:** Software Engineer @ Rvolve
+- **Education:** BSc. Economics | California State University, East Bay
+- **Role:** Software Engineer | Rvolve
 
 ## Contact
 - [Twitter](https://twitter.com/alvropenaa)
