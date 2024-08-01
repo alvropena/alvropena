@@ -3,6 +3,7 @@
 ## About
 - **Born:** 26th May 2001
 - **Nationality:** Peruvian
+- **Location:** San Francisco, CA
 - **Education:** BSc. Economics @ California State University, East Bay
 - **Role:** Software Engineer @ Rvolve
 
