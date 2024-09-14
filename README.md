@@ -1,5 +1,3 @@
-# Alvaro Peña
-
 ## About
 - **Born:** 26th May 2001
 - **Nationality:** Peruvian
