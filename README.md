@@ -2,7 +2,7 @@
 - **Born:** 26th May 2001
 - **Nationality:** Peruvian
 - **Education:** BSc. Economics @ California State University, East Bay
-- **Role:** Software Engineer @ Rvolve
+- **Role:** Founder & CEO @ Optiffy
 
 ## Contact
 
