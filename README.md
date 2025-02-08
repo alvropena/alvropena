@@ -1,7 +1,10 @@
 ## About
-- **Born:** 26th May 2001
+- **Born:** May 26, 2001
 - **Nationality:** Peruvian
-- **Education:** BSc. Economics @ California State University, East Bay
+- **Education:**
+  - **Major:** BSc. Economics
+  - **College:** California State University, East Bay
+
 
 ## Contact
 
