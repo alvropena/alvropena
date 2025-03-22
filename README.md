@@ -8,7 +8,9 @@
 ### Coding Stats
 [![wakatime](https://wakatime.com/badge/user/401cadbc-f50c-4d07-a590-a965437b8e94.svg)](https://wakatime.com/@401cadbc-f50c-4d07-a590-a965437b8e94)
 
-[![Top Languages](https://wakatime.com/share/@401cadbc-f50c-4d07-a590-a965437b8e94/languages.svg)](https://wakatime.com/@401cadbc-f50c-4d07-a590-a965437b8e94)
+<figure>
+  <embed src="https://wakatime.com/share/@401cadbc-f50c-4d07-a590-a965437b8e94/d1927a56-863d-42a6-a666-3e5c8e72dd35.svg"/>
+</figure>
 
 ## Contact
 
