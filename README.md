@@ -2,10 +2,10 @@ Hey, I’m Alvaro. I taught myself to code during the pandemic and haven’t sto
 
 ## About
 
-- Birthday: May 26 2001
-- Nationality: Peruvian
-- Location: Los Angeles, CA
-- Education: BSc. Economics @ CSU East Bay
+- **Birthday**: May 26, 2001
+- **Nationality**: Peruvian
+- **Location**: Los Angeles, CA
+- **Education**: BSc. Economics @ CSU, East Bay
 
 ## Contact
 
