@@ -1,6 +1,7 @@
 Hey, I’m Alvaro. I taught myself to code during the pandemic and haven’t stopped since.
 
 ## About
+
 — Birthday: 05/26/2001
 - Nationality: Peruvian
 - Location: Los Angeles, CA
