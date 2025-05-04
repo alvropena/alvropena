@@ -1,4 +1,10 @@
-I'm Alvaro. I was born in 2001. I grew up in Peru and moved to the US in January 2024.
+I'm Alvaro.
+
+I was born in 2001.
+
+I grew up in Peru and moved to the US in January 2024.
+
+I majored in Economics.
 
 I taught myself to code during the pandemic.
 
