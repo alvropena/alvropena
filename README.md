@@ -1,4 +1,12 @@
-# Contact
+Hey, I’m Alvaro. I taught myself to code during the pandemic and haven’t stopped since.
+
+## About
+— Birthday: 05/26/2001
+- Nationality: Peruvian
+- Location: Los Angeles, CA
+- Education: BSc. Economics @ CSU East Bay
+
+## Contact
 
 [X](https://x.com/alvropenaa) | [LinkedIn](https://www.linkedin.com/in/alvropena/) | [Email](mailto:me@alvropena.com)
 
