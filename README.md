@@ -1,11 +1,11 @@
 Hey, I’m Alvaro. I taught myself to code during the pandemic and haven’t stopped since.
 
-## About
+## About Me
 
 - **Birthday**: May 26, 2001
 - **Nationality**: Peruvian
-- **Location**: Hayward, CA
-- **Education**: BSc. Economics @ CSU East Bay
+- **Location**: Santa Monica, CA
+- **Education**: BSc. Economics @ CSU, East Bay
 
 ## Contact
 
