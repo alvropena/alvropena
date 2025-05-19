@@ -1,4 +1,4 @@
-Hey, I’m Alvaro. I taught myself to code during the pandemic and haven’t stopped since.
+Hey, I’m Alvaro. I'm an engineer at Favorited.
 
 ## About Me
 
