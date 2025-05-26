@@ -1,4 +1,4 @@
-Hey, I’m Alvaro. I'm an engineer at Favorited.
+Hi! I'm Alvaro, a self-taught Software Engineer. Currently, I'm interning at Favorited.
 
 ## About Me
 
