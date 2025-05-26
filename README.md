@@ -4,7 +4,7 @@ Hi! I'm Alvaro, a self-taught Software Engineer. Currently, I'm interning at Fav
 
 - **Birthday**: May 26, 2001
 - **Nationality**: Peruvian
-- **Location**: Santa Monica, CA
+- **Location**: Los Angeles, CA
 - **Education**: BSc. Economics @ CSU, East Bay
 
 ## Contact
