@@ -1,4 +1,4 @@
-Hi! I'm Alvaro, a self-taught Software Engineer. Currently, I'm interning at Favorited.
+I'm a self-taught Software Engineer. Currently, I'm interning at Favorited.
 
 ## About Me
 
