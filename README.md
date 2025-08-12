@@ -1,4 +1,4 @@
-I'm a self-taught Software Engineer. Currently, I'm interning at Favorited.
+I'm a self-taught Software Engineer. Currently, I'm working at Favorited.
 
 ## About Me
 
