@@ -1,4 +1,4 @@
-I'm a self-taught Software Engineer. Currently, I'm working at Favorited.
+I’m a Software Engineer. I specialize in web and iOS development. Currently, I work at Favorited.
 
 ## About Me
 
